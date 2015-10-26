@@ -1,0 +1,25 @@
+{
+    "appKeys": {
+        "KEY_BG": 0,
+        "KEY_FG": 1
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "fritschy.de",
+    "longName": "boxy",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "boxy",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "81e54eec-6c76-4056-92de-313f004ef310",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
